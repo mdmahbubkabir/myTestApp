@@ -12,6 +12,11 @@ function hello()
     echo 'Hello I am Md. Mahbub Kabir<br>';
 }
 
+function hello()
+{
+    echo 'Hello I am zohra<br>';
+}
+
 hello();
 hello();
 hello();
