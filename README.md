@@ -25,4 +25,4 @@ The video covers all the basic things about PHP.
     - Working with mysql
  - Composer and autoloading
 
-git test 17.08.2021
+git test 18.08.2021
