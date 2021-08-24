@@ -8,7 +8,38 @@
   <title>Document</title>
 </head>
 <body>
-Hello World
+Hello World <br>
 <!--Echo HTML tags-->
+<?php
+echo "Hello World";
+?>
+<br>
+<?php
+echo 'Kabir';
+?>
+<br>
+<?php
+echo "Mahbub";
+?>
+<br>
+<?php
+echo "Bushra";
+?>
+<br>
+<?php
+echo "Takia";
+?>
+<br>
+<?php
+echo "Zohra";
+?>
+<br>
+<?php
+echo "Hafiz";
+?>
+<br>
+<?php
+echo "Sufia";
+?>
 </body>
 </html>
