@@ -41,5 +41,39 @@ echo "Hafiz";
 <?php
 echo "Sufia";
 ?>
+<br>
+<?php
+echo "DIU";
+?>
+<br>
+<?php
+echo "KTH";
+?>
+<br>
+<?php
+echo "BUET";
+?>
+<br>
+<?php
+echo "Bhuterdia High School"
+?>
+<br>
+<?php
+echo "BPI"
+?>
+<br>
+
+<?php
+/* Multiline Comments
+echo "Jolil1";
+echo "Jolil2";
+echo "Jolil3";
+*/
+?>
+<br>
+<?php
+//echo "Rokon"; single line comments
+#echo "Rokon"; single line comments
+?>
 </body>
 </html>
