@@ -4,13 +4,27 @@
 $a = 5;
 $b = 4;
 $c = 1.2;
+//Declaring numbers by Mahbub
+$d = 9;
+$e = 9;
+$f = 1.0;
 
 // Arithmetic operations
 echo ($a + $b) * $c . '<br>';
 echo $a - $b . '<br>';
-echo $a * $b . '<br>'; 
+echo $a * $b . '<br>';
 echo $a / $b . '<br>';
 echo $a % $b . '<br>';
+echo "Mahbub Start==================================";
+
+//Arithmetic operators by Mahbub
+echo ($d + $e) * $f . '<br>';
+echo $d - $e . '<br>';
+echo $d * $e . '<br>';
+echo $d / $e . '<br>';
+echo "Mahbub End==================================";
+echo $d % $e . '<br>';
+
 
 // Assignment with math operators
 
@@ -23,6 +37,14 @@ echo $a % $b . '<br>';
 // Increment operator
 echo $a++ . '<br>';
 echo ++$a . '<br>';
+
+echo "Mahbub Start==================================";
+echo $d++ . '<br>';
+echo "Mahbub End==================================";
+echo ++$d . '<br>';
+
+
+
 
 // Decrement operator
 echo $a-- . '<br>';
@@ -53,6 +75,6 @@ echo "ceil(2.4) " . ceil(2.4) . '<br>';
 
 // Formatting numbers
 $number = 123456789.12345;
-echo number_format($number, 2, '.', ',') . '<br>';
+echo number_format($number, 3, '.', ',') . '<br>';
 
 // https://www.php.net/manual/en/ref.math.php
