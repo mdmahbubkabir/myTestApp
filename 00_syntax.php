@@ -72,7 +72,7 @@ echo "Jolil3";
 ?>
 <br>
 <?php
-//echo "Rokon"; single line comments
+echo "Rokon"; //single line comments
 #echo "Rokon"; single line comments
 ?>
 </body>
