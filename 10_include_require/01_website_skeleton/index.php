@@ -10,9 +10,10 @@
 $companyName = 'TraversyMedia';
 ?>
 <!-- 6. Rename header.php to  show Fatal error-->
-<?php require "partials/header.php"; ?>
+<?php require "partials/header.php"?>
 <!-- 7. Create weather.php in partials-->
 <!-- 8. Rename weather.php to show warning-->
 <?php include "partials/weather.php" ?>
 <h1>Welcome to my cool website</h1>
-<?php require "partials/footer.php"; ?>
+<?php require "partials/footer.php"?>
+

@@ -175,22 +175,40 @@ echo '<pre>';
 
 
 // Check if array has specific key
-echo '<pre>';
+/*echo '<pre>';
 var_dump(isset($person['age']));  // Change age into "location"
-echo '</pre>';
+echo '</pre>';*/
+
+echo '<pre>';
+var_dump(isset($mkabir['age']));
+echo '<pre>';
 
 // Print the keys of the array
-echo '<pre>';
+/*echo '<pre>';
 var_dump(array_keys($person));
-echo '</pre>';
+echo '</pre>';*/
+
+echo '<pre>';
+var_dump(array_keys($mkabir));
+echo '<pre>';
+
 
 // Print the values of the array
-echo '<pre>';
+/*echo '<pre>';
 var_dump(array_values($person));
-echo '</pre>';
+echo '</pre>';*/
+
+echo '<pre>';
+var_dump(array_values($mkabir));
+echo '<pre>';
 
 // Sorting associative arrays by values, by keys
-ksort($person); // ksort, krsort, asort, arsort
+/*ksort($person); // ksort, krsort, asort, arsort
 echo '<pre>';
 var_dump($person);
-echo '</pre>';
+echo '</pre>';*/
+
+asort($mkabir);
+echo '<pre>';
+var_dump($mkabir);
+echo '<pre>';
