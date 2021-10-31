@@ -75,5 +75,9 @@ echo "Jolil3";
 echo "Rokon"; //single line comments
 #echo "Rokon"; single line comments
 ?>
+<br>
+<?php
+echo "Test on 31.10.2021";
+?>
 </body>
 </html>
